@@ -8,4 +8,5 @@ Ashton Bothun
 2. You would use the unit test to test the "max message length" feature of a messaging application. This is because you are testing just this feature and its aspects, where it does not interact with other components as well as executing quickly.
 
 [Link to expose](https://abothunn.github.io/Lab5_Starter/expose.html)
+
 [Link to explore](https://abothunn.github.io/Lab5_Starter/explore.html)
